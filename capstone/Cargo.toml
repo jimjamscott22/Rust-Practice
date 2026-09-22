@@ -1,0 +1,9 @@
+[package]
+name = "capstone"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "task-lab"
+path = "src/main.rs"
+

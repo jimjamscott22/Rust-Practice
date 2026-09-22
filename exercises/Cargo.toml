@@ -1,0 +1,90 @@
+[package]
+name = "exercises"
+version = "0.1.0"
+edition = "2024"
+autotests = false
+
+[[test]]
+name = "ex00"
+path = "tasks/ex00/tests.rs"
+
+[[test]]
+name = "ex01"
+path = "tasks/ex01/tests.rs"
+
+[[test]]
+name = "ex02"
+path = "tasks/ex02/tests.rs"
+
+[[test]]
+name = "ex03"
+path = "tasks/ex03/tests.rs"
+
+[[test]]
+name = "ex04"
+path = "tasks/ex04/tests.rs"
+
+[[test]]
+name = "ex05"
+path = "tasks/ex05/tests.rs"
+
+[[test]]
+name = "ex06"
+path = "tasks/ex06/tests.rs"
+
+[[test]]
+name = "ex07"
+path = "tasks/ex07/tests.rs"
+
+[[test]]
+name = "ex08"
+path = "tasks/ex08/tests.rs"
+
+[[test]]
+name = "ex09"
+path = "tasks/ex09/tests.rs"
+
+[[test]]
+name = "ex10"
+path = "tasks/ex10/tests.rs"
+
+[[test]]
+name = "ex11"
+path = "tasks/ex11/tests.rs"
+
+[[test]]
+name = "ex12"
+path = "tasks/ex12/tests.rs"
+
+[[test]]
+name = "ex13"
+path = "tasks/ex13/tests.rs"
+
+[[test]]
+name = "ex14"
+path = "tasks/ex14/tests.rs"
+
+[[test]]
+name = "ex15"
+path = "tasks/ex15/tests.rs"
+
+[[test]]
+name = "ex16"
+path = "tasks/ex16/tests.rs"
+
+[[test]]
+name = "ex17"
+path = "tasks/ex17/tests.rs"
+
+[[test]]
+name = "ex18"
+path = "tasks/ex18/tests.rs"
+
+[[test]]
+name = "ex19"
+path = "tasks/ex19/tests.rs"
+
+[[test]]
+name = "ex20"
+path = "tasks/ex20/tests.rs"
+
